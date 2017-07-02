@@ -1,0 +1,16 @@
+{
+	"name" : "DatabaseAccess",
+	"version" : "0.0.1",
+	"description" : "simple database find/insert example",
+	"author" : "Jirka Dell'Oro-Friedl'",
+	"main" : "Server.js",
+	"scripts" : {
+		"start" : "node Server.js"
+	},
+	"engines" : {
+		"node" : "6.10.3"
+	},
+	"dependencies" : {
+		"mongodb": "2.2.12"
+	}
+}
